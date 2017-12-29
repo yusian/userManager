@@ -1,4 +1,4 @@
-# usermanager
+# UserManager
 
 > A Vue.js project
 
